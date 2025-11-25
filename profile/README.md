@@ -8,7 +8,7 @@ It provides a clean folder-based structure where mods load automatically, making
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-brown?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-brown?style=for-the-badge)](https://lennys-mod-loader.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Copy the **LML** folder and all files into your **RDR2 game directory**.  
